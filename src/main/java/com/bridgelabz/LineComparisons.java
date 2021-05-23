@@ -8,6 +8,7 @@ public class LineComparisons {
         System.out.println("Welcome To Line Comparison Program");
         // Creates an object of Scanner
         Scanner input = new Scanner(System.in);
+        System.out.println("Enter the Values");
         //Given input value
         Integer x1= input.nextInt();
         Integer x2= input.nextInt();
